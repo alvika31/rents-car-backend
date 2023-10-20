@@ -10,3 +10,6 @@
 ### How to use Swagger's Docs API:
 1. must follow the "how to use the Rent Car Backend" step above
 2. open the url: http://localhost:5000/api-docs/ the port according to what is used by you
+
+### Note:
+There are some end-points that are not included in the swagger API docs such as the image in the car table, and the relationship between tables
